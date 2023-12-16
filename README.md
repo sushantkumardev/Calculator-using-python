@@ -8,10 +8,12 @@ Basic arithmetic operations: addition, subtraction, multiplication, division.
 Additional functions: square root, percentage, etc.
 Developed using Python for cross-platform compatibility.
 Supports Windows environment.
+
 Usage:
 Clone the repository to your local machine.
 Run the calculator.py script.
 Enjoy performing calculations with the simple and intuitive calculator interface.
+
 Requirements:
 Python 3.x
 Tkinter library (usually included with Python installations)
