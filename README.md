@@ -1,36 +1,18 @@
 # Calculator-using-python
 
-A simple calculator implemented in Python with a graphical user interface (GUI).
+This is a simple calculator application developed in Python for Windows users. The calculator provides basic arithmetic operations, including addition, subtraction, multiplication, and division. It also supports additional features such as square root, percentage, and more.
 
-Features
+Features:
+User-friendly graphical interface.
 Basic arithmetic operations: addition, subtraction, multiplication, division.
-Additional operations: square root, percentage.
-User-friendly interface with buttons for easy interaction.
-Technologies Used
-Python
-Tkinter (for GUI)
-Getting Started
-Clone the repository:
-
-bash
-Copy code:- 
-git clone https://github.com/sushantkumardev/calculator-using-python.git
-
-Navigate to the project directory:
-
-bash
-Copy code:- 
-cd python-calculator
-
-Run the calculator:
-
-bash
-Copy code:- 
-python calculator.py
-
-
-Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Additional functions: square root, percentage, etc.
+Developed using Python for cross-platform compatibility.
+Supports Windows environment.
+Usage:
+Clone the repository to your local machine.
+Run the calculator.py script.
+Enjoy performing calculations with the simple and intuitive calculator interface.
+Requirements:
+Python 3.x
+Tkinter library (usually included with Python installations)
+Feel free to contribute to the project, report issues, or suggest improvements. Happy calculating!
