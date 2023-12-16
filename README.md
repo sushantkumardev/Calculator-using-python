@@ -5,6 +5,7 @@ This is a simple calculator application developed in Python for Windows users. T
 Features:
 User-friendly graphical interface.
 Basic arithmetic operations: addition, subtraction, multiplication, division.
+
 Additional functions: square root, percentage, etc.
 Developed using Python for cross-platform compatibility.
 Supports Windows environment.
