@@ -16,16 +16,21 @@ bash
 Copy code
 
 git clone https://github.com/sushantkumardev/calculator-using-python.git
+
 Navigate to the project directory:
 
 bash
 Copy code
+
 cd python-calculator
+
 Run the calculator:
 
 bash
 Copy code
+
 python calculator.py
+
 
 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
