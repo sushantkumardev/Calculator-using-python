@@ -11,7 +11,9 @@ Supports Windows environment.
 
 Usage:
 Clone the repository to your local machine.
+
 Run the calculator.py script.
+
 Enjoy performing calculations with the simple and intuitive calculator interface.
 
 Requirements:
