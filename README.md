@@ -13,19 +13,19 @@ Getting Started
 Clone the repository:
 
 bash
-Copy code
+Copy code:- 
 git clone https://github.com/sushantkumardev/calculator-using-python.git
 
 Navigate to the project directory:
 
 bash
-Copy code
+Copy code:- 
 cd python-calculator
 
 Run the calculator:
 
 bash
-Copy code
+Copy code:- 
 python calculator.py
 
 
